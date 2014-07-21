@@ -14,4 +14,7 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+<<<<<<< HEAD
 /config/database.yml
+=======
+>>>>>>> 4a654c4d243cdbabb2eeff403ad0611e7585467e
